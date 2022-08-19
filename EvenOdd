@@ -1,0 +1,19 @@
+package com.java;
+public class EvenOdd 
+{
+	public static void main(String[] args)
+	{
+		int a=16;
+		if(a%2==0)
+		{
+			if(a%2!=0)
+			{
+				System.out.println(a+ " Is an Even Number");
+			}
+		}
+		else
+		{
+			System.out.println(a+ " Is An Odd Number");
+		}
+	}
+}
