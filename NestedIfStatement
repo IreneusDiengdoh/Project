@@ -1,0 +1,24 @@
+package com.java;
+
+public class NestedifStatement
+{
+	public static void main(String args[])
+	{
+		int a=-4;
+		if(a%2==0)
+		{
+			if(a<0)
+			{
+				System.out.println("The Number Is Negative And Even");
+			}
+			else
+			{
+				System.out.println("The Number Is Even But Not Negative");
+			}
+		}
+			else
+			{
+				System.out.println("The Number Is Neither Negative Nor Even");
+			}
+	}
+}
