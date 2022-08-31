@@ -1,4 +1,4 @@
-*/To Find The Area Of A Circle
+/*Write a java program to take radius and print area of circle*/
 package com.java;
 
 public class AreaOfCircle 
