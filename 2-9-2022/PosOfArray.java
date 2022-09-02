@@ -20,7 +20,6 @@ public class PositionOfArray
 		{
 				if(a[i]==search) {
 					System.out.println("a["+i+"]="+search);
-					break;
 				}
 		}
 }
