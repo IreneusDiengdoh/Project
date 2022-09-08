@@ -1,6 +1,6 @@
 /*Write a java program to print transpose of a matrix*/
 package com.java;
-public class BinarySearch 
+public class TransposeOfMatrix
 {
 	public static void main(String args[]) {
 		
