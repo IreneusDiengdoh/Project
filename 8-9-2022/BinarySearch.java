@@ -1,4 +1,4 @@
-/*Write a java program to input an array and search an element using binary search*/
+/*Write a java program to print transpose of a matrix*/
 package com.java;
 public class BinarySearch 
 {
